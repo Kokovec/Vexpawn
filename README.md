@@ -12,10 +12,14 @@ At first the Vectrex will be quite dumb in determining counter moves.
 However, over time the Vectrex 'learns' and endeavors to make better moves.
 Eventually the Vectrex cannot be beaten (in theory anyway).
 The intro screen gives the player two choices: (1) Fresh Start (2) Keep Learning.
+
 After each game the player is returned to the intro screen and can choose:
+
 (1) Fresh Start - Vectrex forgets all that it has learned
+
 (2) Keep Learning - The Vectrex keeps learned data from the previous games
 
 Note:
+
 I played the game many times over to test it but if Vectrex goes blank it means it can't find a counter-move.
 If I find any issues I'll try to find time to fix them.
